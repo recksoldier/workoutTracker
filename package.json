@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install-server": "cd backend && npm install mongodb mongoose cors dotenv express && npm install",
+    "install-server": "cd backend && npm install",
     "start-server": "cd backend && node server.js",
     "install-client": "cd client && npm install",
     "build-client": "cd client && npm run build",
